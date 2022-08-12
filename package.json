@@ -1,0 +1,18 @@
+{
+  "name": "demo-slot-pg-soft",
+  "main": "./lib/demo-slot-pg-soft",
+  "version": "1.0.0",
+  "description": "Winrate Tinggi Kunci Main Demo Slot Pg Soft Nomor 1 Di Indonesia",
+  "keywords": ["agentotoplay slot","games slot gampang menang","habanero slot","slot online","bandar slot online","slot pg soft"],
+
+  "activationCommands": {
+    "atom-workspace": "demo-slot-pg-soft:toggle"
+  },
+  "repository": "https://github.com/slotdepo10rb/demo-slot-pg-soft",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
