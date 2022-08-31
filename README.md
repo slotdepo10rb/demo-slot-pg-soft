@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Cek Info Algoritma Kunci Main Demo Slot Pg Soft No 1 Indonesia](https://atom.io/packages/demo-slot-pg-soft)
-## :star: klik untuk [Daftar Sekarang](https://agentotoplay.net/) :star2: <<< 
-## :hash: klik untuk [Daftar Sekarang](https://agentotoplay.net/register/) :green_heart: <<< 
-## :fire: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/promo/) :100: <<< 
+## :star: klik untuk [Daftar Sekarang](https://golinkurl.github.io/) :star2: <<< 
+## :hash: klik untuk [Daftar Sekarang](https://golinkurl.github.io/register/) :green_heart: <<< 
+## :fire: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/promo/) :100: <<< 
 
 ## Informasi Situs /Server Kami : 
 
